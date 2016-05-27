@@ -1,0 +1,18 @@
+console
+run
+console
+submit jsacosta1103@gmail.com Ny2Yyc5oJDwHn0Yz
+object HelloWorld {
+  def main(args: Array[String]) {
+    println("Hello, World!")
+  }
+console
+run
+run Mainter
+run
+var d = 1
+run
+styleCheck
+pwd
+help
+project
