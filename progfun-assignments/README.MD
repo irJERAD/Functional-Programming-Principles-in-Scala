@@ -4,4 +4,4 @@ Assignment 0: this was an example assignment with the following goals of
 - Downloading and setting up the IntelliJ IDEA IDE and platform with Scala plug in and developer tools
 - Writing first functions, classes and objects in Scala
 - Writing first unit tests as ScalaTests in Scala
-- Use sbt to upload assignment content to the [Coursera](www.coursera.org) classroom review repo
+- Use sbt to upload assignment content to the [Coursera](https://www.coursera.org) classroom review repo
